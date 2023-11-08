@@ -2,7 +2,7 @@ var APP_DATA = {
   "scenes": [
     {
       "id": "0-room_1",
-      "name": "Room_1",
+      "name": "Спальня",
       "levels": [
         {
           "tileSize": 256,
@@ -32,7 +32,7 @@ var APP_DATA = {
     },
     {
       "id": "1-room_2",
-      "name": "Room_2",
+      "name": "Гостиная",
       "levels": [
         {
           "tileSize": 256,
